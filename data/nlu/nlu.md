@@ -1,0 +1,278 @@
+## intent:greet
+- xin chào
+- chào
+- chào buổi sáng
+- chào buổi trưa
+- chào buổi chiều
+- chào buổi tối
+- hey
+- hi
+- bot ơi
+- bot à
+- mình có vài câu hỏi
+- có ai giúp mình không
+- bạn ơi
+- anh ơi
+- chị ơi
+- cháu ơi
+- hello 
+- chào 
+- hi 
+- có ai ở đây không?
+
+## intent:given_name
+- [anh](cust_sex) tên là [lực](cust_name)
+- [chú](cust_sex) tên là [nam](cust_name) 
+- [bác](cust_sex) tên là [hưng](cust_name) 
+- [chị](cust_sex) tên là [luyên](cust_name) 
+- [cô](cust_sex) tên là [hồng](cust_name) 
+- [bà](cust_sex) tên là [ánh](cust_name) 
+
+## intent:vi_to_en
+- từ [ăn](word) nghĩa là gì
+- từ [ăn](word) là gì nhỉ
+- từ [ăn](word) nghĩa
+- từ [chơi](word) là gì
+- từ [chơi](word) nghĩa là
+- từ [trường đại học](word) nghĩa là gì
+- từ [trường đại học](word) là gì nhỉ
+- từ [trường đại học](word) nghĩa
+- từ [điện thoại](word) là gì
+- từ [điện thoại](word) nghĩa là
+- từ [lò vi sóng](word) nghĩa là gì
+- từ [lò vi sóng](word) là gì nhỉ
+- từ [lò vi sóng](word) nghĩa
+- từ [chung cư](word) là gì
+- từ [chung cư](word) nghĩa là
+- từ [nhà](word) nghĩa là gì
+- từ [nhà](word) là gì nhỉ
+- từ [nhà](word) nghĩa
+- từ [xe đạp điện](word) là gì
+- từ [xe đạp điện](word) nghĩa là
+- từ [máy phát điện](word) nghĩa là gì
+- từ [máy phát điện](word) là gì nhỉ
+- từ [máy phát điện](word) nghĩa
+- từ [họ và tên](word) là gì
+- từ [họ và tên](word) nghĩa là
+- dịch [ăn](word) nghĩa là gì
+- dịch [ăn](word) là gì nhỉ
+- dịch [ăn](word) nghĩa
+- dịch [chơi](word) là gì
+- dịch [chơi](word) nghĩa là
+- dịch [trường đại học](word) nghĩa là gì
+- dịch [trường đại học](word) là gì nhỉ
+- dịch [trường đại học](word) nghĩa
+- dịch [điện thoại](word) là gì
+- dịch [điện thoại](word) nghĩa là
+- dịch [lò vi sóng](word) nghĩa là gì
+- dịch [lò vi sóng](word) là gì nhỉ
+- dịch [lò vi sóng](word) nghĩa
+- dịch [chung cư](word) là gì
+- dịch [chung cư](word) nghĩa là
+- dịch [nhà](word) nghĩa là gì
+- dịch [nhà](word) là gì nhỉ
+- dịch [nhà](word) nghĩa
+- dịch [xe đạp điện](word) là gì
+- dịch [xe đạp điện](word) nghĩa là
+- dịch [máy phát điện](word) nghĩa là gì
+- dịch [máy phát điện](word) là gì nhỉ
+- dịch [máy phát điện](word) nghĩa
+- dịch [họ và tên](word) là gì
+- dịch [họ và tên](word) nghĩa là
+
+## intent:en_to_vi
+- từ [work](word) nghĩa là gì
+- từ [work](word) là gì nhỉ
+- từ [work](word) nghĩa
+- từ [computer](word) là gì
+- từ [computer](word) nghĩa là
+- từ [landscape](word) nghĩa là gì
+- từ [landscape](word) là gì nhỉ
+- từ [landscape](word) nghĩa
+- từ [camera](word) là gì
+- từ [camera](word) nghĩa là
+- từ [glass](word) nghĩa là gì
+- từ [glass](word) là gì nhỉ
+- từ [glass](word) nghĩa
+- từ [fish](word) là gì
+- từ [fish](word) nghĩa là
+- từ [dog](word) nghĩa là gì
+- từ [dog](word) là gì nhỉ
+- từ [dog](word) nghĩa
+- từ [sun](word) là gì
+- từ [sun](word) nghĩa là
+- từ [clothes](word) nghĩa là gì
+- từ [clothes](word) là gì nhỉ
+- từ [clothes](word) nghĩa
+- từ [cpu](word) là gì
+- từ [cpu](word) nghĩa là
+- từ [GUI](word) nghĩa là gì
+- từ [GUI](word) là gì nhỉ
+- từ [GUI](word) nghĩa
+- dịch [work](word) là gì
+- dịch [work](word) nghĩa là
+- dịch [computer](word) nghĩa là gì
+- dịch [computer](word) là gì nhỉ
+- dịch [computer](word) nghĩa
+- dịch [landscape](word) là gì
+- dịch [landscape](word) nghĩa là
+- dịch [camera](word) nghĩa là gì
+- dịch [camera](word) là gì nhỉ
+- dịch [camera](word) nghĩa
+- dịch [glass](word) là gì
+- dịch [glass](word) nghĩa là
+- dịch [fish](word) nghĩa là gì
+- dịch [fish](word) là gì nhỉ
+- dịch [fish](word) nghĩa
+- dịch [dog](word) là gì
+- dịch [dog](word) nghĩa là
+- dịch [sun](word) nghĩa là gì
+- dịch [sun](word) là gì nhỉ
+- dịch [sun](word) nghĩa
+- dịch [clothes](word) là gì
+- dịch [clothes](word) nghĩa là
+- dịch [cpu](word) nghĩa là gì
+- dịch [cpu](word) là gì nhỉ
+- dịch [cpu](word) nghĩa
+- dịch [GUI](word) là gì
+- dịch [GUI](word) nghĩa là
+
+## intent:en_to_en
+- từ [work](word) trong tiếng Anh nghĩa là gì
+- từ [work](word) trong tiếng Anh là gì nhỉ
+- từ [work](word) trong tiếng Anh nghĩa
+- từ [computer](word) trong tiếng Anh là gì
+- từ [computer](word) trong tiếng Anh nghĩa là
+- từ [landscape](word) trong tiếng Anh nghĩa là gì
+- từ [landscape](word) trong tiếng Anh là gì nhỉ
+- từ [landscape](word) trong tiếng Anh nghĩa
+- từ [camera](word) trong tiếng Anh là gì
+- từ [camera](word) trong tiếng Anh nghĩa là
+- từ [glass](word) trong tiếng Anh nghĩa là gì
+- từ [glass](word) trong tiếng Anh là gì nhỉ
+- từ [glass](word) trong tiếng Anh nghĩa
+- từ [fish](word) trong tiếng Anh là gì
+- từ [fish](word) trong tiếng Anh nghĩa là
+- từ [dog](word) trong tiếng Anh nghĩa là gì
+- từ [dog](word) trong tiếng Anh là gì nhỉ
+- từ [dog](word) trong tiếng Anh nghĩa
+- từ [sun](word) trong tiếng Anh là gì
+- từ [sun](word) trong tiếng Anh nghĩa là
+- từ [clothes](word) trong tiếng Anh nghĩa là gì
+- từ [clothes](word) trong tiếng Anh là gì nhỉ
+- từ [clothes](word) trong tiếng Anh nghĩa
+- từ [cpu](word) trong tiếng Anh là gì
+- từ [cpu](word) trong tiếng Anh nghĩa là
+- từ [GUI](word) trong tiếng Anh nghĩa là gì
+- từ [GUI](word) trong tiếng Anh là gì nhỉ
+- từ [GUI](word) trong tiếng Anh nghĩa
+- dịch [work](word) trong tiếng Anh là gì
+- dịch [work](word) trong tiếng Anh nghĩa là
+- dịch [computer](word) trong tiếng Anh nghĩa là gì
+- dịch [computer](word) trong tiếng Anh là gì nhỉ
+- dịch [computer](word) trong tiếng Anh nghĩa
+- dịch [landscape](word) trong tiếng Anh là gì
+- dịch [landscape](word) trong tiếng Anh nghĩa là
+- dịch [camera](word) trong tiếng Anh nghĩa là gì
+- dịch [camera](word) trong tiếng Anh là gì nhỉ
+- dịch [camera](word) trong tiếng Anh nghĩa
+- dịch [glass](word) trong tiếng Anh là gì
+- dịch [glass](word) trong tiếng Anh nghĩa là
+- dịch [fish](word) trong tiếng Anh nghĩa là gì
+- dịch [fish](word) trong tiếng Anh là gì nhỉ
+- dịch [fish](word) trong tiếng Anh nghĩa
+- dịch [dog](word) trong tiếng Anh là gì
+- dịch [dog](word) trong tiếng Anh nghĩa là
+- dịch [sun](word) trong tiếng Anh nghĩa là gì
+- dịch [sun](word) trong tiếng Anh là gì nhỉ
+- dịch [sun](word) trong tiếng Anh nghĩa
+- dịch [clothes](word) trong tiếng Anh là gì
+- dịch [clothes](word) trong tiếng Anh nghĩa là
+- dịch [cpu](word) trong tiếng Anh nghĩa là gì
+- dịch [cpu](word) trong tiếng Anh là gì nhỉ
+- dịch [cpu](word) trong tiếng Anh nghĩa
+- dịch [GUI](word) trong tiếng Anh là gì
+- dịch [GUI](word) trong tiếng Anh nghĩa là
+
+## intent:goodbye
+- tạm biệt
+- tạm biệt nhé
+- hẹn gặp lại sau
+- hẹn gặp lại sau nhé
+- nói chuyện sau
+- nói chuyện sau nhé
+- chào nhé
+- chào
+
+## intent:affirm
+- được
+- ổn
+- đúng rồi
+- đúng vậy
+- chính xác
+- hoàn toàn chinh xác  
+
+## intent:deny
+- không
+- không được đâu
+- tôi không nghĩ vậy
+- như thế không được đâu
+- tôi không đồng ý
+- tôi không đồng ý đâu
+- không hẳn
+- không hẳn vậy
+- không đúng
+
+## intent:mood_great
+- tuyệt vời
+- quá tốt
+- tốt
+- tôi khỏe
+- tôi ổn
+- không tồi
+- sức khỏe tràn trề
+- thoải mái
+- yêu đời
+- tự tin
+
+## intent:mood_unhappy
+- buồn ghía
+- buồn quá
+- khá buồn
+- không vui
+- không vui tẹo nào
+- không vui lắm 
+- chẳng vui
+- chẳng vui tẹo nào
+- thật tồi tệ
+- thực sự buồn
+- thực sự tồi tệ
+- quá buồn
+- quá tồi tệ
+
+## intent:bot_challenge
+- bạn là bot à?
+- bạn là người à?
+- bạn có phải là bot không?
+- bạn có phải là người không?
+- có phải tôi đang nói chuyện với người không?
+- có phải tôi đang nói chuyện với bot không?
+- tôi có đang nói chuyện với người không?
+- bạn là ai?
+
+## intent:thank
+- chuẩn
+- hay
+- siêu
+- tuyệt
+- cám ơn
+- thanks
+- thank you
+- ok
+- cảm ơn em
+- cảm ơn em nhiều nhé
+- cảm ơn
+
+
+## intent:ask_name
+- Tên tôi ?

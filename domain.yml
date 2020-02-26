@@ -1,0 +1,72 @@
+slots:
+  cust_sex:
+   auto_fill: true
+   type: text
+  cust_name:
+   auto_fill: true
+   type: text
+  word:
+   auto_fill: true
+   type: text
+  # translation:
+  #   auto_fill: false
+  #   type: text
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - given_name
+  - thank 
+  - vi_to_en
+  - en_to_vi
+  - en_to_en
+  - ask_name
+
+actions:
+- utter_greet
+- utter_greet_with_name
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- give_vi_to_en
+- give_en_to_vi
+- give_en_to_en
+- utter_rep_name
+
+responses:
+  utter_greet:
+  - text: "Xin chào, chúc một ngày tốt lành!!!"
+
+  utter_greet_with_name:
+  - text: "Xin chào {cust_sex} {cust_name}!!!"
+
+  utter_cheer_up:
+  - text: "Vui lên nào"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Bạn có cảm thấy đỡ hơn không?"
+
+  utter_happy:
+  - text: "Tuyệt, tiếp tục nào!"
+
+  utter_goodbye:
+  - text: "Tạm biệt"
+
+  utter_rep_name:
+  - text: "{cust_sex} là {cust_name}"
+
+  utter_iamabot:
+  - text: "Tôi là bot, được xây bởi {cust_name}!!"
+  
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
